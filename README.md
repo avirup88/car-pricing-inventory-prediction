@@ -56,7 +56,7 @@ Start the Streamlit web application by running:
 ```bash
 streamlit run car_price_prediction_app.py
 ```
-Upload a dataset and explore predictions and insights interactively.
+Upload a dataset with the similar file as `unsold_cars.csv` and explore predictions and insights interactively.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
